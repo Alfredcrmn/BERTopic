@@ -1,0 +1,24 @@
+{
+  "estado": "validación estructural superada",
+  "topicos": 16,
+  "referencias_de_evidencia_validas": 48,
+  "referencias_unicas": 48,
+  "nombres_entre_3_y_10_palabras": true,
+  "coherencia_declarada_por_gemini": {
+    "alta": 10,
+    "media": 5,
+    "baja": 1
+  },
+  "modelo_reportado_por_usuario": "Gemini 3.1 Pro",
+  "version_interna": "no disponible",
+  "fecha_ejecucion": "no proporcionada",
+  "hora_ejecucion_reportada": "18:35",
+  "zona_horaria_contexto": "America/Mexico_City",
+  "thinking_level_reportado": "low",
+  "tipo_acceso": "Suscripción Plus, según lo reportado por el usuario",
+  "tokens_reales": "no disponibles",
+  "costo_observado": "no proporcionado",
+  "cambios_a_asignaciones": false,
+  "respuesta_sha256": "fb6b5b1b528dea3b5915f952a2208c146dd1164a5657d0b3297aa948ea60ac86",
+  "alcance": "El formato y los IDs válidos no prueban fidelidad semántica ni coherencia de los grupos."
+}

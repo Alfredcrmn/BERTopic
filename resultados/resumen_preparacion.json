@@ -1,0 +1,26 @@
+{
+  "modelo": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "revision": "e8f8c211226b894fcb81acc59f3b34ba3efd5f42",
+  "fecha_utc": "2026-10-25T22:49:45.121862+00:00",
+  "corpus_sha256": "0b217a737c5d5081d0bc0486d1380e253baa71169489671a809432a2f38107a3",
+  "segmentos": 1177,
+  "cortos_eliminados": 139,
+  "duplicados_eliminados": 0,
+  "palabras_total": 67601,
+  "palabras_promedio": 57.43500424808836,
+  "palabras_mediana": 28.0,
+  "limite_tokens": 128,
+  "parrafos_excedidos": 256,
+  "porcentaje_excedido": 21.75021240441801,
+  "fragmentos": 1555,
+  "dimension_embedding": 384,
+  "estrategia": "fragmentos sin solapamiento, promedio ponderado por tokens, normalización L2 final",
+  "versiones": {
+    "sentence-transformers": "5.1.2",
+    "transformers": "4.57.6",
+    "torch": "2.8.0",
+    "numpy": "2.0.2",
+    "pandas": "2.3.3",
+    "matplotlib": "3.9.4"
+  }
+}

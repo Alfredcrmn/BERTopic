@@ -1,0 +1,197 @@
+{
+"topicos": [
+{
+"topic_id": 0,
+"nombre": "Fórmula de cortesía en intensos conflictos familiares y morales",
+"justificacion": "El tópico agrupa monólogos y diálogos de reproche donde los personajes emplean formalmente el pronombre 'usted' para discutir deudas vitales, matrimonios y traiciones sentimentales. Se evidencia fuertemente en las airadas declaraciones de germana_0886 y germana_0980.",
+"evidencia_ids": [
+"germana_0886",
+"germana_0980",
+"germana_0752"
+],
+"coherencia_observada": "alta",
+"limitacion": "Los ejemplos son extensos discursos emocionales, dificultando saber si el modelo agrupa por el dramatismo temático de las relaciones o por la alta frecuencia estructural del pronombre 'usted'."
+},
+{
+"topic_id": 1,
+"nombre": "Triángulo amoroso entre Don Diego, Germana y señora Chermidy",
+"justificacion": "Refleja directamente las tensiones en torno a los personajes principales debido a la existencia del hijo ilegítimo de don Diego y su relación pasada. Las citas germana_0134 y germana_0282 muestran cómo esta paternidad condiciona a las tres figuras femeninas.",
+"evidencia_ids": [
+"germana_0134",
+"germana_0649",
+"germana_0282"
+],
+"coherencia_observada": "alta",
+"limitacion": "Existe una fuerte redundancia temática centrada en la paternidad conflictiva de Don Diego, lo que podría ocultar otras interacciones de estos personajes en la novela."
+},
+{
+"topic_id": 2,
+"nombre": "Miseria y ruina moral del duque y la duquesa",
+"justificacion": "Se enfoca en los personajes del duque y la duquesa de La Tour de Embleuse, describiendo el contraste entre la pobreza estoica de ella y la disipada vida parisina de él. Se sustenta claramente en germana_0061 y germana_0385.",
+"evidencia_ids": [
+"germana_0385",
+"germana_0061",
+"germana_0291"
+],
+"coherencia_observada": "alta",
+"limitacion": "La evidencia une dos realidades diametralmente opuestas (el sufrimiento austero de la esposa frente a la ludopatía del marido), agrupadas principalmente por la co-ocurrencia de sus títulos nobiliarios."
+},
+{
+"topic_id": 3,
+"nombre": "Fórmulas protocolarias breves dirigidas al señor duque",
+"justificacion": "El grupo captura un estilo narrativo de diálogo extremadamente conciso donde distintos interlocutores se dirigen con formalidad a los personajes nobiliarios. Se demuestra en las breves interacciones de germana_0279 y germana_0308.",
+"evidencia_ids": [
+"germana_0279",
+"germana_0151",
+"germana_0308"
+],
+"coherencia_observada": "alta",
+"limitacion": "Los ejemplos proporcionados son frases demasiado cortas y redundantes, invisibilizando el contexto argumental que provoca estas peticiones."
+},
+{
+"topic_id": 4,
+"nombre": "Tratamiento médico clínico para la enfermedad pulmonar de Germana",
+"justificacion": "Detalla los esfuerzos y técnicas de los personajes médicos (Le Bris y Delviniotis) para diagnosticar y sanar a la protagonista con terapias de yodo. La evolución clínica se observa en germana_0705 y germana_0707.",
+"evidencia_ids": [
+"germana_0763",
+"germana_0705",
+"germana_0707"
+],
+"coherencia_observada": "alta",
+"limitacion": "La temática está tan focalizada en los pulmones y el yodo que resulta dudoso que el grupo abarque otras interacciones de estos médicos fuera de la clínica."
+},
+{
+"topic_id": 5,
+"nombre": "Diálogos e interacciones directas con el personaje del doctor",
+"justificacion": "Muestra conversaciones donde diversos personajes se dirigen explícitamente al interlocutor 'doctor', abordando temas dispares con distintos tonos emocionales. Se ilustra desde el miedo en germana_0096 hasta la broma en germana_0084.",
+"evidencia_ids": [
+"germana_0260",
+"germana_0084",
+"germana_0096"
+],
+"coherencia_observada": "media",
+"limitacion": "Aunque el interlocutor es consistente, los asuntos tratados (homeopatía, fortuna, terror ante la soledad) varían enormemente, revelando un vínculo léxico más que semántico."
+},
+{
+"topic_id": 6,
+"nombre": "Discusiones financieras sobre grandes rentas, francos y especulación",
+"justificacion": "El grupo reúne fragmentos donde los personajes evalúan su situación patrimonial haciendo hincapié en cifras millonarias, bolsas de valores y rentas. Resulta evidente en germana_0160 y germana_0443.",
+"evidencia_ids": [
+"germana_0160",
+"germana_0075",
+"germana_0443"
+],
+"coherencia_observada": "alta",
+"limitacion": "Se observa una redundancia casi exacta entre los dos primeros ejemplos ('cincuenta mil francos de renta'), limitando severamente la apreciación de la riqueza léxica del clúster."
+},
+{
+"topic_id": 7,
+"nombre": "Escenas espaciales nocturnas y febriles en habitaciones y balcones",
+"justificacion": "Agrupa descripciones narrativas situadas alrededor de lechos y cristales, vinculando el mobiliario con estados de alucinación, obsesión o sueño. Se refleja en los desvaríos del duque en germana_1119 y el sueño de Germana en germana_0331.",
+"evidencia_ids": [
+"germana_1118",
+"germana_1119",
+"germana_0331"
+],
+"coherencia_observada": "media",
+"limitacion": "Une acciones físicas vandálicas de un personaje obsesionado con el letargo místico de otro, sostenidas superficialmente por un vocabulario compartido de recintos arquitectónicos."
+},
+{
+"topic_id": 8,
+"nombre": "Descripciones psicológicas y estados emocionales íntimos de las mujeres",
+"justificacion": "Se enfoca en analizar el sufrimiento, la belleza, los encantos y las angustias de diferentes figuras femeninas a través de un estilo introspectivo y melancólico. Abarca a tres mujeres diferentes en germana_0380, germana_0695 y germana_0200.",
+"evidencia_ids": [
+"germana_0380",
+"germana_0695",
+"germana_0200"
+],
+"coherencia_observada": "media",
+"limitacion": "Presenta una amplia dispersión temática al abarcar el dolor materno, la melancolía juvenil y el cálculo frívolo de una antagonista en un mismo conjunto abstracto."
+},
+{
+"topic_id": 9,
+"nombre": "Estilo descriptivo costumbrista sobre indumentaria y entornos urbanos",
+"justificacion": "Reúne estampas visuales detalladas que observan atuendos, nacionalidades y atmósferas callejeras, características del estilo narrativo panorámico. Se muestra tanto en las guarniciones griegas de germana_0708 como en la mendicidad parisina de germana_0048.",
+"evidencia_ids": [
+"germana_0708",
+"germana_0462",
+"germana_0048"
+],
+"coherencia_observada": "baja",
+"limitacion": "La coherencia es muy débil, juntando exóticas crónicas de viajes mediterráneos con miserias invernales en París basándose en menciones incidentales de casas o vestimenta."
+},
+{
+"topic_id": 10,
+"nombre": "Verbos de movimiento y dicción previos a intervenciones directas",
+"justificacion": "El tópico captura un patrón sintáctico del estilo narrativo donde se describe una acción física o gesto emocional que antecede inmediatamente a una cita textual. Se evidencia estructuralmente en germana_0393 y germana_0405.",
+"evidencia_ids": [
+"germana_0393",
+"germana_0405",
+"germana_0325"
+],
+"coherencia_observada": "alta",
+"limitacion": "El modelo ha detectado una fórmula de acotación puramente gramatical ('avanzó y dijo', 'corrió y balbuceó') desprovista de una identidad temática real."
+},
+{
+"topic_id": 11,
+"nombre": "Menciones geográficas y restricciones de residencia asociadas a París",
+"justificacion": "Se agrupan fragmentos cuyo elemento central es el lugar 'París', ya sea describiendo ubicaciones residenciales o condiciones y prohibiciones para habitar en ella. Visible en el control policial de germana_0553 y la prescripción médica de germana_0683.",
+"evidencia_ids": [
+"germana_0553",
+"germana_0001",
+"germana_0683"
+],
+"coherencia_observada": "media",
+"limitacion": "Existe ambigüedad al mezclar descripciones topográficas inofensivas de calles con tramas de vigilancia estatal y planes de convalecencia forzosa."
+},
+{
+"topic_id": 12,
+"nombre": "Complot de asesinato y disertaciones toxicológicas sobre el arsénico",
+"justificacion": "Posee un enfoque temático inusualmente nítido alrededor de los venenos, combinando las teorías forenses del doctor con los intentos reales de homicidio. Las citas germana_0702 y germana_0600 muestran ambas caras de esta intriga.",
+"evidencia_ids": [
+"germana_0598",
+"germana_0702",
+"germana_0600"
+],
+"coherencia_observada": "alta",
+"limitacion": "Aunque altamente coherente, amalgama una lección teórica e histórica con un evento criminal en curso impulsado por la ignorancia de otro personaje."
+},
+{
+"topic_id": 13,
+"nombre": "Relato histórico retrospectivo sobre el conflicto diplomático en China",
+"justificacion": "Narra de forma cohesionada un episodio naval exótico centrado en el personaje Gu-Ly, misioneros y un bombardeo francés, actuando como una subtrama encapsulada. Relatado en continuidad entre germana_0673 y germana_0692.",
+"evidencia_ids": [
+"germana_0674",
+"germana_0692",
+"germana_0673"
+],
+"coherencia_observada": "alta",
+"limitacion": "La evidencia sugiere que este tópico podría corresponder íntegramente a un solo bloque o capítulo narrativo, careciendo de transversalidad en el resto de la novela."
+},
+{
+"topic_id": 14,
+"nombre": "Intrigas y complots entre la señora Chermidy y Mateo Mantoux",
+"justificacion": "Agrupa escenas impulsadas por la co-ocurrencia de estos personajes específicos (Chermidy y el ex presidiario Mantoux) coordinando engaños o lecciones siniestras. Constatado en las tensiones de germana_0242 y la sumisión cómplice en germana_0596.",
+"evidencia_ids": [
+"germana_0242",
+"germana_1051",
+"germana_0596"
+],
+"coherencia_observada": "alta",
+"limitacion": "Se mezclan reflexiones solitarias de frustración romántica de la antagonista con escenas colectivas donde el cerrajero funge de sirviente silente, unidos sólo por los nombres propios."
+},
+{
+"topic_id": 15,
+"nombre": "Descripciones paisajísticas de viajes marítimos y ruinas en Pompeya",
+"justificacion": "Presenta el estilo narrativo evocador empleado para describir excursiones, paseos nocturnos y la contemplación romántica del entorno mediterráneo antiguo. Se ilustra con la navegación en germana_0696 y la exploración de las ruinas en germana_0357.",
+"evidencia_ids": [
+"germana_0696",
+"germana_0357",
+"germana_0358"
+],
+"coherencia_observada": "media",
+"limitacion": "El vocabulario poético y turístico agrupa situaciones narrativamente distantes: un febril viaje diario en bote hacia una enferma y una escalofriante caminata arqueológica nocturna."
+}
+],
+"observaciones_generales": "Nombrar tópicos de ficción basados solo en tres párrafos y términos TF-IDF presenta serias limitaciones. El modelo tiende a crear clústeres puramente estilísticos o gramaticales (como fórmulas de cortesía o acotaciones de verbos) que carecen de peso argumental. Asimismo, la sobre-representación de personajes específicos en un mismo grupo puede ocultar su evolución a lo largo de la trama, forzando un aparente consenso temático donde solo existe una co-ocurrencia de nombres propios."
+}

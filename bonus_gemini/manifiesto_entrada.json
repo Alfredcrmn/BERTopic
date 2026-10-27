@@ -1,0 +1,15 @@
+{
+  "configuracion": "A",
+  "topicos": 16,
+  "ejemplos": 48,
+  "outliers_excluidos": 235,
+  "nombres_previos_incluidos": false,
+  "archivos_fuente": {
+    "resultados/configuraciones/A/topic_info.csv": "839c04b56e8e7d246410d37804a39a07a50ee7d4b83bbf7f224b7da4207b525e",
+    "resultados/configuraciones/A/ejemplos_representativos.csv": "53a63bc37dafe5349c9f1d2db8f00dddae95bd8e949cf66bcfbba6f64e5b864d"
+  },
+  "entrada_sha256": "1d973643a60ab5b30b6513f15f576b16fe1c9d8ae523b917cad10b5ed7c83d79",
+  "caracteres_entrada": 61082,
+  "palabras_aproximadas_entrada": 9628,
+  "nota": "Palabras y caracteres no equivalen a tokens consumidos. No se ha ejecutado Gemini."
+}

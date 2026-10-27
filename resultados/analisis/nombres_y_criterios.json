@@ -1,0 +1,153 @@
+{
+  "A": {
+    "-1": [
+      "Sin asignación temática",
+      "No evaluable",
+      "Documentos que no forman parte de un grupo suficientemente denso; no constituyen un tema."
+    ],
+    "0": [
+      "Diálogos de afecto, reproche y negociación",
+      "Baja",
+      "Los ejemplos incluyen confesión amorosa y conflicto familiar, pero también réplicas muy breves. El predominio de usted, si y bien y la proporción de diálogo sugieren un grupo de forma discursiva más que un tema único."
+    ],
+    "1": [
+      "Chermidy, maternidad y legitimidad de los Villanera",
+      "Media-alta",
+      "Confluyen el hijo de Chermidy, el apellido y herencia, y las obligaciones afectivas de don Diego. Comparte personajes y conflictos con 0 y 14."
+    ],
+    "2": [
+      "Decadencia económica y social de la familia del duque",
+      "Media",
+      "Los ejemplos describen crédito, pobreza de la duquesa y derroche del duque. Otros documentos se relacionan por personajes o ambiente social; no es un tema económico puro."
+    ],
+    "3": [
+      "Tratos y fórmulas de cortesía dirigidos al duque",
+      "Baja",
+      "La petición de matrimonio es interpretable, pero réplicas como A elección de usted, señor duque no permiten inferir un asunto único. Agrupa interlocutores y fórmulas de tratamiento."
+    ],
+    "4": [
+      "Enfermedad de Germana y cuidados médicos",
+      "Media-alta",
+      "Los ejemplos sobre Le Bris, Delviniotis y el tratamiento con yodo forman un núcleo claro. Algunos miembros hablan de enfermedad o del doctor sin describir tratamientos."
+    ],
+    "5": [
+      "Conversaciones con el doctor",
+      "Media-baja",
+      "El destinatario doctor une las intervenciones, aunque unas versan sobre medicina y otras sobre fortuna o despedidas. No debe confundirse con un segundo tema clínico homogéneo."
+    ],
+    "6": [
+      "Dinero, rentas y especulación",
+      "Alta",
+      "Francos, renta, fortuna y Bolsa coinciden con los ejemplos. Es uno de los grupos con tema más reconocible, aunque los dos ejemplos sobre cincuenta mil francos son casi duplicados."
+    ],
+    "7": [
+      "Escenas de alcoba, angustia y muerte",
+      "Media",
+      "Balcón, cama, gestos y movimientos unen escenas de Germana enferma y del desenlace de Chermidy. La conexión es espacial y narrativa; no todo el grupo describe el mismo suceso."
+    ],
+    "8": [
+      "Vida afectiva, sufrimiento y retratos psicológicos",
+      "Media-baja",
+      "Reúne dolor materno, admiración por Germana y caracterización de Chermidy. El vocabulario emocional tiene sentido, pero el grupo abarca personajes y situaciones diferentes."
+    ],
+    "9": [
+      "Descripción de espacios, ciudades y apariencia",
+      "Media-baja",
+      "Los ejemplos describen Corfú, calles y vestimenta de la duquesa; la muestra adicional incluye jardines y edificios. Hay afinidad descriptiva, pero poca unidad temática estricta."
+    ],
+    "10": [
+      "Gestos, entradas y acotaciones narrativas",
+      "Baja",
+      "Son movimientos, miradas y frases introductorias de intervenciones. Lágrimas, levantó y dijo no definen un asunto; el modelo capta una función narrativa."
+    ],
+    "11": [
+      "París: residencia, desplazamientos y referencias urbanas",
+      "Baja",
+      "Hay restricciones de residencia de expresidiarios, pero también la apertura descriptiva de la novela y el regreso del médico a París. La coincidencia geográfica no justifica llamarlo tema policial homogéneo."
+    ],
+    "12": [
+      "Venenos, toxicología y proyecto de envenenamiento",
+      "Alta",
+      "Los ejemplos comparten venenos, arsénico y discusión de su detección, vinculados a la intriga. Se interpretan exclusivamente como contenido de ficción, sin validar sus afirmaciones científicas."
+    ],
+    "13": [
+      "Cartas de China y conflicto de la Náyade",
+      "Alta",
+      "Los ejemplos relatan los misioneros, Gu-Ly y la represalia naval. Es un episodio distintivo; los nombres propios ayudan a separarlo del conflicto doméstico. El relato expresa la perspectiva y prejuicios del narrador, no hechos históricos verificados."
+    ],
+    "14": [
+      "Intrigas de Chermidy con Mantoux y le Tas",
+      "Media",
+      "Los ejemplos comparten la conspiración y los personajes, pero incluyen preparativos y transiciones. Se solapa con maternidad y con venenos sin reducirse a ninguno de ellos."
+    ],
+    "15": [
+      "Paisajes, viajes y paseos junto al mar",
+      "Media",
+      "Pompeya, Nápoles y los paseos costeros comparten ambiente y descripción. Puede considerarse un tema de escenario; no describe una única localización y está en el tamaño mínimo de A."
+    ]
+  },
+  "B": {
+    "-1": [
+      "Sin asignación temática",
+      "No evaluable",
+      "Ruido del agrupamiento; se mantiene sin reasignar."
+    ],
+    "0": [
+      "Narración familiar, enfermedad e intriga (grupo heterogéneo)",
+      "Baja",
+      "Mezcla derroche del duque, enfermedad de Germana, maternidad y otros episodios. Su gran tamaño oculta temas que A distingue."
+    ],
+    "1": [
+      "Diálogos de amor y conflicto familiar",
+      "Baja",
+      "Contiene declaraciones amorosas y reproches familiares; también concentra el estilo dialogado y fórmulas frecuentes."
+    ],
+    "2": [
+      "Conversaciones sobre el duque y París",
+      "Baja",
+      "Se reúnen alusiones al duque y a París; no constituye un asunto narrativo único."
+    ],
+    "3": [
+      "Intercambios con el doctor",
+      "Media-baja",
+      "Predomina el interlocutor; los asuntos incluyen medicina y conversación social."
+    ],
+    "4": [
+      "Dinero, rentas y fortuna",
+      "Alta",
+      "La correspondencia de términos y ejemplos sustenta un tema económico reconocible."
+    ]
+  },
+  "C": {
+    "-1": [
+      "Sin asignación temática",
+      "No evaluable",
+      "Ruido del agrupamiento; se mantiene sin reasignar."
+    ],
+    "0": [
+      "Narración familiar, enfermedad e intriga (grupo heterogéneo)",
+      "Baja",
+      "Mezcla derroche del duque, enfermedad de Germana, maternidad y otros episodios. Su gran tamaño oculta temas que A distingue."
+    ],
+    "1": [
+      "Diálogos de amor y conflicto familiar",
+      "Baja",
+      "Contiene declaraciones amorosas y reproches familiares; también concentra el estilo dialogado y fórmulas frecuentes."
+    ],
+    "2": [
+      "Conversaciones sobre el duque y París",
+      "Baja",
+      "Se reúnen alusiones al duque y a París; no constituye un asunto narrativo único."
+    ],
+    "3": [
+      "Intercambios con el doctor",
+      "Media-baja",
+      "Predomina el interlocutor; los asuntos incluyen medicina y conversación social."
+    ],
+    "4": [
+      "Dinero, rentas y fortuna",
+      "Alta",
+      "La correspondencia de términos y ejemplos sustenta un tema económico reconocible."
+    ]
+  }
+}

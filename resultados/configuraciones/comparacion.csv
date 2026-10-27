@@ -1,0 +1,4 @@
+configuracion,min_cluster_size,min_samples,ngram_range,topicos_sin_outliers,outliers,porcentaje_outliers,menor_topico,mayor_topico,diversidad_top10,segundos_operacion,operacion
+A,15,5,"(1, 1)",16,235,19.966015293118097,15,331,0.7625,4.553737167000001,ajustar modelo
+B,30,10,"(1, 1)",5,251,21.325403568394222,43,454,0.74,1.8261128749999997,ajustar modelo
+C,30,10,"(1, 2)",5,251,21.325403568394222,43,454,0.78,0.07553945799999973,actualizar palabras de B

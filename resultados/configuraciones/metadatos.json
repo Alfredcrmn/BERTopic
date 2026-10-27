@@ -1,0 +1,51 @@
+{
+  "configuraciones": {
+    "A": {
+      "min_cluster_size": 15,
+      "min_samples": 5,
+      "ngram_range": [
+        1,
+        1
+      ]
+    },
+    "B": {
+      "min_cluster_size": 30,
+      "min_samples": 10,
+      "ngram_range": [
+        1,
+        1
+      ]
+    },
+    "C": {
+      "min_cluster_size": 30,
+      "min_samples": 10,
+      "ngram_range": [
+        1,
+        2
+      ]
+    }
+  },
+  "umap": {
+    "n_neighbors": 15,
+    "n_components": 5,
+    "min_dist": 0.0,
+    "metric": "cosine",
+    "random_state": 42,
+    "n_jobs": 1
+  },
+  "stopwords_fuente": "NLTK spanish; lista exacta en stopwords_es.txt",
+  "stopwords_sha256": "a7c29377bef306c290de92406426771ef8c46c4d38518a059d67e16807e96172",
+  "embeddings_sha256": "45ced518caa17f572712d47144f81f5e82cd8af21ca5f4dfa21bea278c7f125b",
+  "segmentos_sha256": "89e94db881249cb3ac6d80b23679dd0f238321af7c7509a96bc73a2e39761583",
+  "ARI_A_B_incluye_outliers": 0.43406908748251877,
+  "ARI_B_C_incluye_outliers": 1.0,
+  "versiones": {
+    "bertopic": "0.17.3",
+    "hdbscan": "0.8.42",
+    "umap-learn": "0.5.12",
+    "scikit-learn": "1.6.1",
+    "nltk": "3.9.2",
+    "numpy": "2.0.2",
+    "plotly": "7.1.0"
+  }
+}
